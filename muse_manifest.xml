@@ -1,18 +1,18 @@
 <manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2"
           iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other"
-          domain="https://ldiazgamb.github.io/PCMatic" resolutions="1x,2x" timestamp="1686218251630">
+          domain="https://ldiazgamb.github.io/PCMatic" resolutions="1x,2x" timestamp="1686219623836">
     <folder name="css">
         <file name="site_global.css" crc="514427607"/>
-        <file name="master_a-master.css" crc="397817814"
-              ref="index:sistemas-operativos:aplicaciones:ocio:productividad:soporte-técnico-remoto:seguridad:contacto"/>
-        <file name="index.css" crc="341156953" ref="index"/>
-        <file name="sistemas-operativos.css" crc="341156953" ref="sistemas-operativos"/>
-        <file name="aplicaciones.css" crc="341156953" ref="aplicaciones"/>
-        <file name="ocio.css" crc="341156953" ref="ocio"/>
-        <file name="productividad.css" crc="341156953" ref="productividad"/>
-        <file name="soporte-t_cnico-remoto.css" crc="341156953" ref="soporte-técnico-remoto"/>
-        <file name="seguridad.css" crc="341156953" ref="seguridad"/>
-        <file name="contacto.css" crc="341156953" ref="contacto"/>
+        <file name="index.css" crc="435303373" ref="index"/>
+        <file name="sistemas-operativos.css" crc="435303373" ref="sistemas-operativos"/>
+        <file name="aplicaciones.css" crc="435303373" ref="aplicaciones"/>
+        <file name="ocio.css" crc="435303373" ref="ocio"/>
+        <file name="productividad.css" crc="435303373" ref="productividad"/>
+        <file name="soporte-t_cnico-remoto.css" crc="435303373" ref="soporte-técnico-remoto"/>
+        <file name="seguridad.css" crc="435303373" ref="seguridad"/>
+        <file name="contacto.css" crc="435303373" ref="contacto"/>
+        <file name="master_b-master.css" crc="357209908"
+              ref="sistemas-operativos:aplicaciones:ocio:contacto:productividad:soporte-técnico-remoto:index:seguridad"/>
     </folder>
     <folder name="scripts">
         <file name="jquery-1.8.3.min.js" crc="209076791"
@@ -33,60 +33,60 @@
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
     </folder>
     <folder name="images">
-        <file name="robot-courier.svg" crc="4051057458" seo="true"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto">
-            <caption webpage="seguridad" alt=""/>
-            <caption webpage="ocio" alt=""/>
-            <caption webpage="aplicaciones" alt=""/>
-            <caption webpage="index" alt=""/>
-            <caption webpage="contacto" alt=""/>
-            <caption webpage="productividad" alt=""/>
-            <caption webpage="soporte-técnico-remoto" alt=""/>
-            <caption webpage="sistemas-operativos" alt=""/>
-        </file>
-        <file name="robot-courier_poster_.png" crc="79503512" ref="index"/>
-        <file name="u112-4.png" crc="4108584004"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u112-4_2x.png" crc="4120490825"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u177-4.png" crc="3830325248"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u177-4_2x.png" crc="4123361181"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u242-4.png" crc="4265703241"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u242-4_2x.png" crc="3813062419"
-              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
         <file name="arrowmenuright.png" crc="41086373" ref="index">
             <caption webpage="index" alt=""/>
         </file>
-        <file name="u368-4.png" crc="4143267578"
+        <file name="robot-cartoon-a.svg" crc="188905108" seo="true"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto">
+            <caption webpage="seguridad" alt=""/>
+            <caption webpage="contacto" alt=""/>
+            <caption webpage="sistemas-operativos" alt=""/>
+            <caption webpage="aplicaciones" alt=""/>
+            <caption webpage="index" alt=""/>
+            <caption webpage="productividad" alt=""/>
+            <caption webpage="soporte-técnico-remoto" alt=""/>
+            <caption webpage="ocio" alt=""/>
+        </file>
+        <file name="robot-cartoon-a_poster_.png" crc="498563717" ref="index"/>
+        <file name="u710-4.png" crc="3830325248"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u368-4_2x.png" crc="471385969"
+        <file name="u710-4_2x.png" crc="4123361181"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u278-4.png" crc="4184012673"
+        <file name="u716-4.png" crc="4265703241"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u278-4_2x.png" crc="4040709188"
+        <file name="u716-4_2x.png" crc="3813062419"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u415-4.png" crc="24721520"
+        <file name="u725-4.png" crc="4143267578"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u415-4_2x.png" crc="171638443"
+        <file name="u725-4_2x.png" crc="471385969"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u209-4.png" crc="3770052920"
+        <file name="u737-4.png" crc="4184012673"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u209-4_2x.png" crc="3961108683"
+        <file name="u737-4_2x.png" crc="4040709188"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u651-4.png" crc="3901434253"
+        <file name="u732-4.png" crc="24721520"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
-        <file name="u651-4_2x.png" crc="20863132"
+        <file name="u732-4_2x.png" crc="171638443"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
+        <file name="u703-4.png" crc="3770052920"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
+        <file name="u703-4_2x.png" crc="3961108683"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
+        <file name="u745-4.png" crc="3901434253"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
+        <file name="u745-4_2x.png" crc="20863132"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
+        <file name="u850-4.png" crc="389640216"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
+        <file name="u850-4_2x.png" crc="3942040102"
               ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad:contacto"/>
     </folder>
-    <file name="index.html" crc="433857463" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="sistemas-operativos.html" crc="3836888698" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="soporte-técnico-remoto.html" crc="4080410095" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="aplicaciones.html" crc="456367900" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="productividad.html" crc="3770979982" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="ocio.html" crc="4189219112" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="seguridad.html" crc="3786073152" seo="true" mt="1686218183447" redirect="true"/>
-    <file name="contacto.html" crc="3768292035" seo="true" mt="1686218200426" redirect="true"/>
+    <file name="index.html" crc="18220361" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="sistemas-operativos.html" crc="407689929" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="soporte-técnico-remoto.html" crc="423690301" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="aplicaciones.html" crc="3898173895" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="productividad.html" crc="4151121079" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="ocio.html" crc="285455268" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="seguridad.html" crc="385735151" seo="true" mt="1686219596095" redirect="true"/>
+    <file name="contacto.html" crc="113572587" seo="true" mt="1686219596095" redirect="true"/>
 </manifest>
