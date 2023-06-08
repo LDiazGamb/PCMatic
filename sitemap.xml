@@ -2,66 +2,75 @@
 <urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/index.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/index.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/sistemas-operativos.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/sistemas-operativos.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/soporte-t%C3%A9cnico-remoto.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/soporte-t%C3%A9cnico-remoto.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/aplicaciones.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/aplicaciones.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/productividad.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/productividad.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/ocio.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/ocio.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>http://ldiazgamb.github.io/pcmatic/seguridad.html</loc>
+        <loc>https://ldiazgamb.github.io/PCMatic/seguridad.html</loc>
         <lastmod>2023-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <image:image>
-            <image:loc>http://ldiazgamb.github.io/pcmatic/images/robot-courier.svg</image:loc>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ldiazgamb.github.io/PCMatic/contacto.html</loc>
+        <lastmod>2023-06-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <image:image>
+            <image:loc>https://ldiazgamb.github.io/PCMatic/images/robot-courier.svg</image:loc>
         </image:image>
     </url>
 </urlset>
