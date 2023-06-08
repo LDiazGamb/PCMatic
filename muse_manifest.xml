@@ -1,0 +1,85 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2"
+          iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other"
+          domain="ldiazgamb.github.io/pcmatic" resolutions="1x,2x" timestamp="1686216997011">
+    <folder name="css">
+        <file name="site_global.css" crc="514427607"/>
+        <file name="master_a-master.css" crc="179134719"
+              ref="index:sistemas-operativos:aplicaciones:ocio:productividad:soporte-técnico-remoto:seguridad"/>
+        <file name="index.css" crc="295618051" ref="index"/>
+        <file name="sistemas-operativos.css" crc="295618051" ref="sistemas-operativos"/>
+        <file name="aplicaciones.css" crc="295618051" ref="aplicaciones"/>
+        <file name="ocio.css" crc="295618051" ref="ocio"/>
+        <file name="productividad.css" crc="295618051" ref="productividad"/>
+        <file name="soporte-t_cnico-remoto.css" crc="295618051" ref="soporte-técnico-remoto"/>
+        <file name="seguridad.css" crc="295618051" ref="seguridad"/>
+    </folder>
+    <folder name="scripts">
+        <file name="jquery-1.8.3.min.js" crc="209076791"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="museutils.js" crc="3939489907"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="whatinput.js" crc="86476730"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="museconfig.js" crc="3936894949"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="jquery.watch.js" crc="522499760"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="require.js" crc="4177726516"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="jquery.musemenu.js" crc="4139692962"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="html5shiv.js" crc="4241844378"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+    </folder>
+    <folder name="images">
+        <file name="robot-courier.svg" crc="4051057458" seo="true"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad">
+            <caption webpage="index" alt=""/>
+            <caption webpage="soporte-técnico-remoto" alt=""/>
+            <caption webpage="aplicaciones" alt=""/>
+            <caption webpage="seguridad" alt=""/>
+            <caption webpage="productividad" alt=""/>
+            <caption webpage="ocio" alt=""/>
+            <caption webpage="sistemas-operativos" alt=""/>
+        </file>
+        <file name="robot-courier_poster_.png" crc="79503512" ref="index"/>
+        <file name="u112-4.png" crc="4108584004"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u112-4_2x.png" crc="4120490825"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u177-4.png" crc="4111292915"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u177-4_2x.png" crc="521621849"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u242-4.png" crc="309223902"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u242-4_2x.png" crc="3938658200"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="arrowmenuright.png" crc="41086373" ref="index">
+            <caption webpage="index" alt=""/>
+        </file>
+        <file name="u368-4.png" crc="4143267578"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u368-4_2x.png" crc="471385969"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u278-4.png" crc="4184012673"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u278-4_2x.png" crc="4040709188"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u415-4.png" crc="24721520"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u415-4_2x.png" crc="171638443"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u209-4.png" crc="178542259"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+        <file name="u209-4_2x.png" crc="4261920073"
+              ref="index:sistemas-operativos:soporte-técnico-remoto:aplicaciones:productividad:ocio:seguridad"/>
+    </folder>
+    <file name="index.html" crc="311855748" seo="true" mt="1686216959442" redirect="true"/>
+    <file name="sistemas-operativos.html" crc="473763110" seo="true" mt="1686216959392" redirect="true"/>
+    <file name="soporte-técnico-remoto.html" crc="144564986" seo="true" mt="1686216959392" redirect="true"/>
+    <file name="aplicaciones.html" crc="3952341998" seo="true" mt="1686216959392" redirect="true"/>
+    <file name="productividad.html" crc="100017404" seo="true" mt="1686216959392" redirect="true"/>
+    <file name="ocio.html" crc="425530829" seo="true" mt="1686216959392" redirect="true"/>
+    <file name="seguridad.html" crc="4176803221" seo="true" mt="1686216959392" redirect="true"/>
+</manifest>
